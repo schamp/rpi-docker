@@ -1,0 +1,6 @@
+[submodule "docker-rpi-tor-relay"]
+	path = docker-rpi-tor-relay
+	url = git@github.com:schamp/docker-rpi-tor-relay
+[submodule "docker-rpi-scan-server"]
+	path = docker-rpi-scan-server
+	url = git@github.com:schamp/docker-rpi-scan-server
